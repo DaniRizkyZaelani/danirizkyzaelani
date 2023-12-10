@@ -1,12 +1,14 @@
-
 <div align='center'>
   <h3>
     Hey! I'm Dani and I'm a student/front-end developer. I like to make some new templates for my future projects in my free time.
   </h3>
   <i>I am currently studying: <b>Web Development📱</b></i>
 </div>
-
-
+<p align="center">
+<picture>
+  <img width=60% alt="Hello!" src="https://tenor.com/vAA3ASDwahh.gif">
+</picture>
+</p>
 <!--  My Technologies and my Badges  -->
 <div align='center'>
 <h2 align='center'>My Technologies</h2><br>
