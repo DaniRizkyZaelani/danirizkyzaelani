@@ -4,7 +4,7 @@
   </h3>
   <i>I am currently studying: <b>Web Development📱</b></i>
 </div>
-<picure>
+<picture>
 <p align="center">
   <img width=60% alt="Hello!" src="https://tenor.com/vAA3ASDwahh.gif">
 </picture>
