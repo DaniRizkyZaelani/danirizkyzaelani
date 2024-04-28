@@ -7,8 +7,8 @@
 <picture>
 <p align="center">
   <img width=60% alt="Hello!" src="https://tenor.com/bDr30GB9AxD.gif">
-</picture>
 </p>
+</picture>
 <!--  My Technologies and my Badges  -->
 <div align='center'>
 <h2 align='center'>My Technologies</h2><br>
