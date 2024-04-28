@@ -6,7 +6,9 @@
 </div>
 <picture>
 <p align="center">
-  <img width=60% alt="Hello!" src="https://tenor.com/bDr30GB9AxD.gif">
+  <img width=60% alt="Hello!" src="
+    ![tenor](https://github.com/DaniRizkyZaelani/danirizkyzaelani/assets/122273503/b8b85fcd-7806-4d8c-af16-520cc7e1b0b1)
+    ">
 </p>
 </picture>
 <!--  My Technologies and my Badges  -->
